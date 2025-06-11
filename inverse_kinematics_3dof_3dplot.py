@@ -177,9 +177,9 @@ def interactive_robot(l1, l2, l3, start_x, start_y, start_z):
 
 if __name__ == "__main__":
     # Hardcoded starting point and link lengths for easy modification
-    start_x = 8  # Starting X position (cm)
-    start_y = 14 # Starting Y position (cm)
-    start_z = 10 # Starting Z position (cm)
+    start_x = 5  # Starting X position (cm)
+    start_y = 12 # Starting Y position (cm)
+    start_z = 14 # Starting Z position (cm)
     l1 = 4       # Link 1 length (cm)
     l2 = 7       # Link 2 length (cm)
     l3 = 11      # Link 3 length (cm)
