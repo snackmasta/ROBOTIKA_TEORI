@@ -1,7 +1,7 @@
 # Perancangan Metode Invers Kinematik 3 DOF
 
-Nama: Januar Virgianwan L  
-NIM: 2213640416  
+Nama: Agung Rambujana
+NIM: 221364002  
 Kelas: 3B-T01
 
 ## Perancangan metode invers kinematik 3 DOF
@@ -9,7 +9,7 @@ Pada perancangan metode invers kinematik, didapatkan rumus dari perancangan link
 
 ### Gambar Robot
 
-![Robot 3 DOF](WhatsApp%20Image%202025-06-10%20at%2019.46.44_c71a6c9f.jpg)
+![Robot 3 DOF]()
 
 ### Penjelasan
 
